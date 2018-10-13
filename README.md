@@ -9,6 +9,8 @@ Made in Node.JS & SQL
 
 ![alt text](screen-shot2.png)
 
-4. Bamazon will tell you the price & if the item you want is in stock
+4. Bamazon will tell you the price & if the item you want is in stock and the data base will updatel
+
+![alt text](screen-shot3.png)
 
 Happy Shopping!
