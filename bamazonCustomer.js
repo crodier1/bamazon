@@ -36,7 +36,7 @@ connection.query("select * from products", (err, res) => {
     if (err) throw err;
 
     for (let i = 0; i < res.length; i++) {
-        console.log(res[i].item_id + " " + res[i].product_name + " $" + res[i].price + " In Stock: " + res[i].stock_quantity);
+        console.log(res[i].item_id + " " + res[i].product_name + " $" + res[i].price + " Quantity: " + res[i].stock_quantity);
     }    
     console.log("");
     //starts up inquierer
